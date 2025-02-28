@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bd8d1545-956c-4653-857a-668f0a58fadb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Test/src/test/java/pages/AgileSwiftCargo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2tHdBiH9KLluIhoTcPsqRlrsDhK" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;TestNG.C01_AramaTesti.aramaTesti.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.C01_AramaTesti.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.C02_FacebookTesti.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.C02_FacebookTesti.negatifLoginTesti.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.C:/Users/furka.DESKTOP-U8GPDCH/Desktop/Yazılım/seleniumegitim/java-selenium-testng-egitim/xmlFiles/tumTestleriCalistirma.xml.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/furka.DESKTOP-U8GPDCH/Desktop/Yazılım/AgileCargoTesting/Test&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  }
+}</component>
+  <component name="RunManager" selected="TestNG.C:/Users/furka.DESKTOP-U8GPDCH/Desktop/Yazılım/seleniumegitim/java-selenium-testng-egitim/xmlFiles/tumTestleriCalistirma.xml">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="java-selenium-testng-egitim" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="java-selenium-testng-egitim" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+    <configuration name="C01_AramaTesti" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="WiseVideoDersleri_TestNG_POM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.K22_testNG_frameworkOlusturma.D01_TestNG_tanitim.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.K22_testNG_frameworkOlusturma.D01_TestNG_tanitim" />
+      <option name="MAIN_CLASS_NAME" value="tests.K22_testNG_frameworkOlusturma.D01_TestNG_tanitim.C01_AramaTesti" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C01_AramaTesti.aramaTesti" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="WiseVideoDersleri_TestNG_POM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.K22_testNG_frameworkOlusturma.D01_TestNG_tanitim.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.K22_testNG_frameworkOlusturma.D01_TestNG_tanitim" />
+      <option name="MAIN_CLASS_NAME" value="tests.K22_testNG_frameworkOlusturma.D01_TestNG_tanitim.C01_AramaTesti" />
+      <option name="METHOD_NAME" value="aramaTesti" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C02_FacebookTesti" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="WiseVideoDersleri_TestNG_POM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.K22_testNG_frameworkOlusturma.D04_pageClassKullanimi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.K22_testNG_frameworkOlusturma.D04_pageClassKullanimi" />
+      <option name="MAIN_CLASS_NAME" value="tests.K22_testNG_frameworkOlusturma.D04_pageClassKullanimi.C02_FacebookTesti" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C02_FacebookTesti.negatifLoginTesti" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="WiseVideoDersleri_TestNG_POM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.K22_testNG_frameworkOlusturma.D04_pageClassKullanimi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.K22_testNG_frameworkOlusturma.D04_pageClassKullanimi" />
+      <option name="MAIN_CLASS_NAME" value="tests.K22_testNG_frameworkOlusturma.D04_pageClassKullanimi.C02_FacebookTesti" />
+      <option name="METHOD_NAME" value="negatifLoginTesti" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/furka.DESKTOP-U8GPDCH/Desktop/Yazılım/seleniumegitim/java-selenium-testng-egitim/xmlFiles/tumTestleriCalistirma.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="WiseVideoDersleri_TestNG_POM" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/xmlFiles/tumTestleriCalistirma.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Users/furka.DESKTOP-U8GPDCH/Desktop/Yazılım/seleniumegitim/java-selenium-testng-egitim/xmlFiles/tumTestleriCalistirma.xml" />
+        <item itemvalue="TestNG.C02_FacebookTesti" />
+        <item itemvalue="TestNG.C02_FacebookTesti.negatifLoginTesti" />
+        <item itemvalue="TestNG.C01_AramaTesti.aramaTesti" />
+        <item itemvalue="TestNG.C01_AramaTesti" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bd8d1545-956c-4653-857a-668f0a58fadb" name="Changes" comment="" />
+      <created>1740012800288</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1740012800288</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/tests/K22_testNG_frameworkOlusturma/D04_pageClassKullanimi/C02_FacebookTesti.java</url>
+          <line>13</line>
+          <properties class="tests.K22_testNG_frameworkOlusturma.D04_pageClassKullanimi.C02_FacebookTesti" method="negatifLoginTesti">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/tests/K22_testNG_frameworkOlusturma/D04_pageClassKullanimi/C02_FacebookTesti.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
